@@ -1,12 +1,16 @@
 Blog Lucano
 Blog Lucano es un proyecto web dedicado a la historia, el turismo y la gastronomía de la región de Basilicata, Italia. Desarrollado con HTML, CSS y JavaScript, 
 ofrece una experiencia interactiva y responsiva para los visitantes interesados en conocer más sobre esta fascinante región.
+
 Características:
+
 •	Diseño Responsivo: Optimizado para dispositivos móviles y de escritorio.
 •	Contenido Multimedia: Integración de imágenes y otros recursos para enriquecer la experiencia del usuario.
 •	Navegación Intuitiva: Estructura clara que facilita el acceso a la información.
 •	Interactividad: Elementos dinámicos implementados con JavaScript para mejorar la experiencia del usuario.
+
 Tecnologías Utilizadas:
+
 •	HTML5
 •	CSS3
 •	JavaScript
@@ -29,3 +33,5 @@ Desarrollado por Cristo Dumrauf.
 Licencia:
 Este proyecto se distribuye bajo la licencia Creative Commons.
 
+Contacto
+Para cualquier consulta, puedes contactarme en chr_dom@hotmail.com
